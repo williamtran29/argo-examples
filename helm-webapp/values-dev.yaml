@@ -3,4 +3,4 @@ replicas: 5
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is Chi environment!'
+    CUSTOM_HEADER: 'This is Chi environment XXXXX!'
